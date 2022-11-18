@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="B1t)*Nf~3}ROGvj6o@5:">mySprite</variable><variable type="KIND_SpriteKind" id="vBpj9;8R+utFe2-}?{)j">Player</variable><variable type="KIND_SpriteKind" id="|pygjQ/L93X%KI16mj_H">Projectile</variable><variable type="KIND_SpriteKind" id="upLweA@gQ[P%h?:Iq,@]">Food</variable><variable type="KIND_SpriteKind" id="7z]2JJRhZQns=Rfs,+MZ">Enemy</variable><variable type="KIND_SpriteKind" id="U;Ottr^kx]nD6=UVxZ*D">test_subject</variable></variables><block type="pxt-on-start" id="Y%*`pV|v!]%f-^nvA+-." x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="=gxG0^v]|wZF#ZzP6|px"><field name="VAR" id="B1t)*Nf~3}ROGvj6o@5:">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="9aV7nOpEiE=}jkZubM7;"><value name="img"><shadow type="screen_image_picker" id="8:CIsT)R/ei1s9!~mGR4"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"8:CIsT)R/ei1s9!~mGR4"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="92IXHO5(@?cP5P+a-d~+"><field name="MEMBER">test_subject</field></shadow></value></block></value><next><block type="set_current_tilemap" id="{pUHWi$B5Fwz)v.)G3N_"><value name="tilemap"><shadow type="tiles_tilemap_editor" id="2o]gL9lvC,gV_j$gC3zQ"><field name="tilemap">tilemap`level1`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"level1"}}</data></shadow></value></block></next></block></statement></block></xml>
